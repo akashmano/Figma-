@@ -74,7 +74,8 @@ Figma
 </div>
 ```
 # OUTPUT:
-<img width="1037" height="560" alt="image" src="https://github.com/user-attachments/assets/c1dfb667-3434-4465-9bcb-e0c128ac17a4" />
+<img width="1487" height="817" alt="image" src="https://github.com/user-attachments/assets/0025ef19-5354-4e8e-8359-55cc5cb5b599" />
+
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
